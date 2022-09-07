@@ -220,8 +220,14 @@ To update Your MiroTalk P2P instance at latest commit, execute:
 ./p2pUpdate.sh
 ```
 
+<br />
+
 ---
 
-## Support
+## Do you find MiroTalk useful?
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mirotalk/mirotalk-free-secure-video-calls-chat-screen-sharing)
+Show your appreciation by becoming a [backer or sponsor](https://github.com/sponsors/miroslavpejic85)
+
+Thank you for your support!
+
+---
