@@ -66,12 +66,12 @@ if (isHttps) {
         cert: fs.readFileSync(path.join(__dirname, '../ssl/cert.pem'), 'utf-8'),
     };
     server = https.createServer(options, app);
-    //host = 'https://' + 'localhost' + ':' + port;
-    host = 'https://' + 'aperi.live';
+    host = 'https://' + 'localhost' + ':' + port;
+    //host = 'https://' + 'aperi.live';
 } else {
     server = http.createServer(app);
-    //host = 'http://' + 'localhost' + ':' + port;
-    host = 'http://' + 'aperi.live';
+    host = 'http://' + 'localhost' + ':' + port;
+    //host = 'http://' + 'aperi.live';
 }
 
 /*  
